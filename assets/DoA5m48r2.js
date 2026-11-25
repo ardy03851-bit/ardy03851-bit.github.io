@@ -1,0 +1,2 @@
+import{t as e}from"./DQKxTP3Q.js";import{r as t}from"./0HMOQi9f2.js";function n(){return e({queryKey:[`public-config`],queryFn:()=>t(`/api/config/public.json`,{cache:`no-store`}),staleTime:0})}export{n as t};
+//# sourceMappingURL=DoA5m48r2.js.map

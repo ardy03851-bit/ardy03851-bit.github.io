@@ -1,0 +1,2 @@
+import{r as e}from"./CDxKVo28.js";var t=()=>`Title`,n=()=>`标题`,r=()=>`タイトル`,i=()=>`제목`,a=()=>`Título`,o=()=>`Titre`,s=()=>`Titel`,c=((c={},l={})=>{let u=l.locale??e();return u===`en`?t(c):u===`zh`?n(c):u===`ja`?r(c):u===`ko`?i(c):u===`es`?a(c):u===`fr`?o(c):s(c)}),l=()=>`Cancel`,u=()=>`取消`,d=()=>`キャンセル`,f=()=>`취소`,p=()=>`Cancelar`,m=()=>`Annuler`,h=()=>`Abbrechen`,g=((t={},n={})=>{let r=n.locale??e();return r===`en`?l(t):r===`zh`?u(t):r===`ja`?d(t):r===`ko`?f(t):r===`es`?p(t):r===`fr`?m(t):h(t)});export{c as n,g as t};
+//# sourceMappingURL=DD7DWgU_2.js.map

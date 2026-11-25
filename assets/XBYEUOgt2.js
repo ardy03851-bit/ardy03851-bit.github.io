@@ -1,0 +1,2 @@
+import{r as e}from"./CDxKVo28.js";var t=()=>`Model`,n=()=>`模特`,r=()=>`モデル`,i=()=>`모델`,a=()=>`Modelo`,o=()=>`Modèle`,s=()=>`Modell`,c=((c={},l={})=>{let u=l.locale??e();return u===`en`?t(c):u===`zh`?n(c):u===`ja`?r(c):u===`ko`?i(c):u===`es`?a(c):u===`fr`?o(c):s(c)});export{c as t};
+//# sourceMappingURL=XBYEUOgt2.js.map

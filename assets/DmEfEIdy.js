@@ -1,0 +1,2 @@
+import{r as e}from"./QTnfLwEv.js";import{n as t}from"./DN9C89B0.js";var n=e(t(),1),r=class extends n.Component{state={failed:!1};static getDerivedStateFromError(){return{failed:!0}}componentDidCatch(e){this.props.onError?.(e)}render(){return this.state.failed?null:this.props.children}};export{r as t};
+//# sourceMappingURL=DmEfEIdy.js.map

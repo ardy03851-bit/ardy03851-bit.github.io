@@ -1,0 +1,3 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/EHSmbe192.js","assets/index-CkLfWdBL.js","assets/BKVkroF4.js","assets/DH7Aev9u.js","assets/UhOa7N2_.js","assets/QTnfLwEv.js","assets/DA2vjHKV.js"])))=>i.map(i=>d[i]);
+import{t as e}from"./index-CkLfWdBL.js";import{r as t}from"./CDxKVo28.js";import{n,t as r}from"./C-Le_SE-.js";var i=async({deps:i})=>{let a=t();return{title:n({},{locale:a}),description:r({},{locale:a}),doc:i.pose?await(await e(async()=>{let{loadPoseBySlug:e}=await import(`./EHSmbe192.js`);return{loadPoseBySlug:e}},__vite__mapDeps([0,1,2,3,4,5,6]))).loadPoseBySlug(i.pose):null}};export{i as loader};
+//# sourceMappingURL=CqqJaxbf2.js.map

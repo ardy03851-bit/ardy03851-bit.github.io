@@ -1,0 +1,2 @@
+import{r as e}from"./CDxKVo28.js";var t=e=>`${e?.name} reference — wooden hand`,n=e=>`${e?.name}参考 — 木质手部`,r=e=>`${e?.name}の資料 — 木製の手`,i=e=>`${e?.name} 참고 — 목각 손`,a=e=>`Referencia de ${e?.name} — mano de madera`,o=e=>`Référence : ${e?.name} — main en bois`,s=e=>`${e?.name}-Referenz – hölzerne Hand`,c=((c,l={})=>{let u=l.locale??e();return u===`en`?t(c):u===`zh`?n(c):u===`ja`?r(c):u===`ko`?i(c):u===`es`?a(c):u===`fr`?o(c):s(c)});export{c as t};
+//# sourceMappingURL=D3TLTVb-2.js.map

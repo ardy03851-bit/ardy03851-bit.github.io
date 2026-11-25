@@ -1,0 +1,2 @@
+import{r as e}from"./QTnfLwEv.js";import{n as t}from"./DN9C89B0.js";import{t as n}from"./BvwSourE2.js";var r=e(t()).forwardRef(function(e,t){let{className:r,render:i,orientation:a=`horizontal`,...o}=e;return n(`div`,e,{state:{orientation:a},ref:t,props:[{role:`separator`,"aria-orientation":a},o]})});export{r as t};
+//# sourceMappingURL=C7w8l57Z.js.map

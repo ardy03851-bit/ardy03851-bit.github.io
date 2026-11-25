@@ -1,0 +1,2 @@
+import{r as e}from"./QTnfLwEv.js";import{n as t}from"./DN9C89B0.js";import{t as n}from"./BvwSourE2.js";import{x as r}from"./Cv9rZxcD.js";import{s as i}from"./OYt7PHuj.js";var a=e(t()).forwardRef(function(e,t){let{render:a,className:o,id:s,...c}=e,{store:l}=i(),u=r(s);return l.useSyncedValueWithCleanup(`descriptionElementId`,u),n(`p`,e,{ref:t,props:[{id:u},c]})});export{a as t};
+//# sourceMappingURL=Dw-7_B7J.js.map

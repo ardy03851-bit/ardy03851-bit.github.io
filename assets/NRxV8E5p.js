@@ -1,0 +1,2 @@
+function e(e){return{"@context":`https://schema.org`,"@type":`FAQPage`,mainEntity:e.map(({question:e,answer:t})=>({"@type":`Question`,name:e,acceptedAnswer:{"@type":`Answer`,text:t}}))}}var t=RegExp(`[<>&\u2028\u2029]`,`g`);function n(e){return JSON.stringify(e).replace(t,e=>`\\u${e.charCodeAt(0).toString(16).padStart(4,`0`)}`)}export{n,e as t};
+//# sourceMappingURL=NRxV8E5p.js.map

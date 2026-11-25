@@ -1,0 +1,2 @@
+import{Et as e}from"./UhOa7N2_.js";var t=[`wooden`,`plaster`,`clay`,`outline`,`sketch`,`silhouette`,`openpose`],n={wooden:`wooden`,human:`plaster`};function r(e){return t.includes(e)}var i={azimuth:35,elevation:55,intensity:3.5},a=[0,5];function o({azimuth:t,elevation:n}){let r=t*e,i=n*e;return[Math.sin(r)*Math.cos(i),Math.sin(i),Math.cos(r)*Math.cos(i)]}export{r as a,t as i,i as n,o,a as r,n as t};
+//# sourceMappingURL=BXRpzKSt2.js.map

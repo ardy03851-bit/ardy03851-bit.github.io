@@ -1,0 +1,2 @@
+import{t as e}from"./BMrqDWfj.js";import{a as t,c as n,d as r,i,l as a,n as o,o as s,r as c,s as l,t as u,u as d}from"./Zs93d1Bm.js";function f(t){switch(t){case`front`:return e();case`three-quarter`:return r();case`side`:return d();case`back`:return a();case`low-angle`:return n();case`high-angle`:return l()}}function p(e){switch(e){case`front`:return s();case`three-quarter`:return t();case`side`:return i();case`back`:return c();case`low-angle`:return o();case`high-angle`:return u()}}export{p as n,f as t};
+//# sourceMappingURL=Bg7x7J73.js.map

@@ -1,0 +1,2 @@
+import{r as e}from"./CDxKVo28.js";var t=()=>`Mannequin`,n=()=>`木质人偶`,r=()=>`木製人形`,i=()=>`목각 인형`,a=()=>`Maniquí`,o=()=>`Mannequin`,s=()=>`Holzpuppe`,c=((c={},l={})=>{let u=l.locale??e();return u===`en`?t(c):u===`zh`?n(c):u===`ja`?r(c):u===`ko`?i(c):u===`es`?a(c):u===`fr`?o(c):s(c)});export{c as t};
+//# sourceMappingURL=CRqKHiC-2.js.map

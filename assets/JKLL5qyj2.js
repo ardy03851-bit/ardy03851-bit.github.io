@@ -1,0 +1,2 @@
+function e(e,t){if(!(typeof window>`u`))try{fetch(`/api/events`,{method:`POST`,headers:{"Content-Type":`application/json`},body:JSON.stringify({kind:e,detail:t}),keepalive:!0,credentials:`same-origin`}).catch(()=>{})}catch{}}export{e as t};
+//# sourceMappingURL=JKLL5qyj2.js.map
